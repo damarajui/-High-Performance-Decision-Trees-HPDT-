@@ -1,0 +1,29 @@
+# C++ ignores
+*.o
+*.out
+*.exe
+
+# Python ignores
+__pycache__/
+*.py[cod]
+*.so
+
+# CUDA ignores
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# IDE ignores
+.vscode/
+.idea/
+
+# Build ignores
+build/
+dist/
+
+# Dataset ignores
+data/*.csv
+data/*.txt
